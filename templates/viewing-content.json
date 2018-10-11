@@ -1,0 +1,15 @@
+{
+  "product": "PLAAS OTT API",
+  "version": 1.01,
+  "apiName": "viewingContent",
+  "appId":"NexViewersentTV",
+  "appSecurityCode":"eee80f834a6e15b47db06fb70e75bada",
+  "contentId":1,
+  "categoryId":4,
+  "subCategoryId":8,
+  "type":"LIVE",
+  "customerId":22,
+  "password":"d22b45af79e9341cc4851e10b393b187",
+  "lat":23.938383,
+  "lon":90.093833
+}

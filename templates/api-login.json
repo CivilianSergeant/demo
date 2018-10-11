@@ -1,0 +1,13 @@
+{
+  "product": "PLAAS OTT API",
+  "version": 1.01,
+  "apiName": "apiLogin",
+  "appId":"NexViewersentTV",
+  "appSecurityCode":"eee80f834a6e15b47db06fb70e75bada",
+  "customerId":13,
+  "password":"d22b45af79e9341cc4851e10b393b187",
+  "fcmToken":null,
+  "deviceType":1,
+  "lat": "23.643096",
+  "lon": "90.386284"
+}

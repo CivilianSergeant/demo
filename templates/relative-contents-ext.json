@@ -1,0 +1,13 @@
+{
+  "product":"PLAAS OTT API",
+  "version":1.01,
+  "apiName":"getRelativeContentsExt",
+  "appId":"NexViewersentTV",
+  "appSecurityCode":"eee80f834a6e15b47db06fb70e75bada",
+  "contentId":null,
+  "customerId":28,
+  "password":"b338a16c4e7f55b8b64bf59d0a09eab6",
+  "videoTag":"John Legend",
+  "limit":5,
+  "offset":0
+}

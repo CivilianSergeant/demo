@@ -1,0 +1,12 @@
+{
+  "product": "PLAAS OTT API",
+  "version": 1.01,
+  "apiName": "addAmountByScratchCard",
+  "appId":"NexViewersentTV",
+  "appSecurityCode":"eee80f834a6e15b47db06fb70e75bada",
+  "customerId":13,
+  "password":"d22b45af79e9341cc4851e10b393b187",
+  "paymentMethod":"SCRATCHCARD",
+  "serialNo":"00000010",
+  "cardNo":"2311446697274319"
+}

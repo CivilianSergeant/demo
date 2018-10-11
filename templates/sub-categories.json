@@ -1,0 +1,8 @@
+{
+  "product": "PLAAS OTT API",
+  "version": 1.01,
+  "apiName": "getSubCategories",
+  "categoryId":1,
+  "limit":5,
+  "offset":0
+}
